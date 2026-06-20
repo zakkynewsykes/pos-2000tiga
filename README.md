@@ -82,11 +82,11 @@ A full-cycle F&B operational utility designed to eliminate dine-in ordering fric
 2. **The Server Handshake:** The system returns a success validation to the cashier.  
    <img src="kasir-pos/qr sudah di terima.png" width="700" alt="Server Handshake" />
 
-3. **The Live Floor Update:** Table 2 automatically shifts to **Red** on the floor map, generating an accurate running bill (`Rp 80.000`).  
-   <img src="kasir-pos/detail qr diterima.png" width="700" alt="Floor Update" />
+3. **The Live Floor Update:** The designated table automatically shifts to **Red** on the floor map, instantly generating an accurate active running bill.  
+   <img src="kasir-pos/detail%20qr%20diterima.png" width="700" alt="Floor Update" />
 
-4. **The Zero-Typing Checkout:** When the guest walks up to the counter to settle the bill, Table 2's order summary is already fully populated. Staff proceeds directly to payment.  
-   <img src="kasir-pos/detail qr diterima 2.png" width="700" alt="Auto Fill POS" />
+4. **The Zero-Typing Checkout:** When the guest walks up to the counter to settle the bill, their order summary is already fully populated. Staff proceeds directly to payment.  
+   <img src="kasir-pos/detail%20qr%20diterima%202.png" width="700" alt="Auto Fill POS" />
 
 ---
 
