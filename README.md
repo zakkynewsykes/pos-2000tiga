@@ -69,7 +69,7 @@ A full-cycle F&B operational utility designed to eliminate dine-in ordering fric
 
 | Mobile Catalog | Modifier & Notes | Table & Identity Form | Order Hand-off | Dispatched Validation |
 | :---: | :---: | :---: | :---: | :---: |
-| ![Catalog](mobile-qr/menu.png) | ![Cart](mobile-qr/order.png) | ![Form](mobile-qr/form%20order.png) | ![Confirm](mobile-qr/acc%20order.png) | ![Sent](mobile-qr/order%20terkirim.png) |
+| ![Catalog](mobile-qr/menu.PNG) | ![Cart](mobile-qr/order.PNG) | ![Form](mobile-qr/form%20order.PNG) | ![Confirm](mobile-qr/acc%20order.PNG) | ![Sent](mobile-qr/order%20terkirim.PNG) |
 
 ---
 
