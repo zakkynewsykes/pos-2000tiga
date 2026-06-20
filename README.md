@@ -45,12 +45,12 @@ A full-cycle F&B operational utility designed to eliminate dine-in ordering fric
 #### 2. Core POS & Menu Management
 | Active Table Cart | Add New Menu Modal | Order Settlement Modal |
 | :---: | :---: | :---: |
-| ![Pesanan](kasir-pos/pesanan%20meja.png) | ![Tambah Menu](kasir-pos/tambah%20menu.png) | ![Bayar](kasir-pos/bayar%20pop%20up.jpg) |
+| ![Pesanan](kasir-pos/pesanan%20meja.png) | ![Tambah Menu](kasir-pos/tambah%20menu.png) | ![Bayar](kasir-pos/bayar%20pop%20up.png) |
 
 #### 3. Payment, Petty Cash & Auditing
 | Payment Success Prompt | Petty Cash Logger | Transaction Logs |
 | :---: | :---: | :---: |
-| ![Berhasil](kasir-pos/pembayaran%20berhasil.jpg) | ![Pengeluaran](kasir-pos/pengeluaran.png) | ![Riwayat](kasir-pos/riwayat%20transaksi.png) |
+| ![Berhasil](kasir-pos/pembayaran%20berhasil.png) | ![Pengeluaran](kasir-pos/pengeluaran.png) | ![Riwayat](kasir-pos/riwayat%20transaksi.png) |
 
 #### 4. Authorization & Security (Void System)
 | Master Password Request | Void Success Confirmation | Notification Center |
@@ -69,7 +69,7 @@ A full-cycle F&B operational utility designed to eliminate dine-in ordering fric
 
 | Mobile Catalog | Modifier & Notes | Table & Identity Form | Order Hand-off | Dispatched Validation |
 | :---: | :---: | :---: | :---: | :---: |
-| ![Catalog](mobile-qr/menu.jpg) | ![Cart](mobile-qr/order.jpg) | ![Form](mobile-qr/form%20order.jpg) | ![Confirm](mobile-qr/acc%20order.jpg) | ![Sent](mobile-qr/order%20terkirim.jpg) |
+| ![Catalog](mobile-qr/menu.png) | ![Cart](mobile-qr/order.png) | ![Form](mobile-qr/form%20order.png) | ![Confirm](mobile-qr/acc%20order.png) | ![Sent](mobile-qr/order%20terkirim.png) |
 
 ---
 
